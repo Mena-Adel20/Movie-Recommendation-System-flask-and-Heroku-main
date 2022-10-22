@@ -1,1 +1,2 @@
 Recommendation systems are everywhere. Some of the best examples are YouTube, Netflix, Spotify. Netflix and YouTube rely heavily on their recommendation systems to retain users on their platform for a longer time. Spotify recommends a curated list of songs to the user according to their interests. There are many more examples where recommendation systems play a pivotal role.
+Build a basic Content-Based Movie Recommendation System and make an API using Flask and streamlit 
