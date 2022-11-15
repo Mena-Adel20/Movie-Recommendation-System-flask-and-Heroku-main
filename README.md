@@ -6,7 +6,7 @@
 2.Content-Based
 3.Hybrid approach
 <hr>
-#Here i used Content-Based recommendation.
+# Here i used Content-Based recommendation.
 <hr>
 
 ### what is a  Content-Based recommendation system ?
