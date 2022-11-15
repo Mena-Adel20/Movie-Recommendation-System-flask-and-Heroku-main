@@ -1,5 +1,5 @@
 
-# Build a Movie Recommendation API using Scikit-Learn, Flask and Heroku
+# Build a Movie Recommendation API using Scikit-Learn, Flask and Streamlit
 
 ## There are three type of recommendation system:
 1.Collaborative Filtering
