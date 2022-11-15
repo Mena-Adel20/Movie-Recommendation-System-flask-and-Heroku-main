@@ -5,9 +5,9 @@
 1.Collaborative Filtering
 2.Content-Based
 3.Hybrid approach
-
+<hr>
 #Here i used Content-Based recommendation.
-
+<hr>
 
 ### what is a  Content-Based recommendation system ?
 Content-Based recommendation works on the principle that if a user likes a certain item then we recommend the user a similar item based on the item’s features or attributes. So in our case, if a user likes a movie of a particular genre or an actor then we recommend a movie on similar lines to our user. So, if a user has watched the movie Joker then our recommendation system would predict movies similar to Joker or with the same cast as that of Joker if we consider the movie’s cast.
